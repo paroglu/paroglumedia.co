@@ -1,0 +1,21 @@
+PAROGLUMEDIA / EKSIK PORTFOLYO KLASORU - GUVENLI YAMA
+
+BU PAKET ANA SITE DOSYASI index.html ILE YER DEGISTIRMEZ.
+
+1. ZIP'i iPad Dosyalar uygulamasinda cikar.
+2. Cikan "portfolyo" klasorunu icindeki alt klasorlerle birlikte GitHub deponun KOK dizinine yukle.
+   Klasor yapisi korunmali, dosyalar tek tek kok dizine dagitilmamali.
+3. Beklenen yapi:
+   portfolyo/video/index.html
+   portfolyo/grafik-tasarim/index.html
+   portfolyo/sosyal-medya/index.html
+   portfolyo/drone-fotograf/index.html
+   portfolyo/media/grafik-corlu.webp
+   portfolyo/media/grafik-karabuk.webp
+   portfolyo/media/grafik-kepez.webp
+   portfolyo/media/sosyal-corlu.jpg
+   portfolyo/media/sosyal-kepez.jpg
+4. Mevcut ana index.html, media/ ve konserler/media klasorlerini silme ya da degistirme.
+
+Bu paket yalnizca KESFET / PORTFOLYO yollarinin eksik olmasi sorununa yoneliktir.
+Ana sayfadaki baska tasarim veya animasyon bozulmalarini tek basina duzeltmez.
